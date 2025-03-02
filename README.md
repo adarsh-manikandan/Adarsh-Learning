@@ -1,4 +1,10 @@
-# Bouncing Balls Physics Simulation
+# Adarsh-Learning
+
+A repository for learning and experimenting with web technologies.
+
+## Projects
+
+### 1. Bouncing Balls Physics Simulation
 
 A simple physics simulation of bouncing balls using HTML5 Canvas and JavaScript. The simulation features:
 
@@ -9,7 +15,7 @@ A simple physics simulation of bouncing balls using HTML5 Canvas and JavaScript.
 - Slight friction for realistic energy loss
 - Smooth animations
 
-## Features
+#### Features
 
 - Black background with vibrant colored balls
 - Different sized balls with proportional mass
@@ -17,14 +23,14 @@ A simple physics simulation of bouncing balls using HTML5 Canvas and JavaScript.
 - Wall collision detection
 - Centered canvas display
 
-## How to Run
+#### How to Run
 
 1. Clone this repository
 2. Open `index.html` in a web browser
 3. Watch the physics simulation in action!
 
-## Technologies Used
+#### Technologies Used
 
 - HTML5 Canvas
 - JavaScript (ES6+)
-- CSS3 
+- CSS3
